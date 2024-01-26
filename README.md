@@ -8,16 +8,21 @@ WhoNeedsGV comprends: Marco Murru(team leader), Giulio Lo Cigno, Andrea Goldoni 
 The Project is completly made in RUST and consists in 3 parts: 
 
 One World Generator: created for other groups and then shared with them.
+
 One Tool: created for other groups and then shared with them.
 
 Four singular contribution to create a virtual robot combining them:
+
    -A 3D Visualizer developed by Giulio Lo Cigno using Bevy.
+   
    -A Visualizer developed by Lorenzo D'Ambrosio using "....".
+   
    -An AI developed by Marco Murru using ".....".
-   -An AI developed by Giulio Lo Cigno using ".....".
+   
+   -An AI developed by Andrea Goldoni using ".....".
 
 
 ##### Development👨🏻‍💻:
-![SPDev]((https://skillicons.dev/icons?i=rust,bevy,roket))
+![SPDev]((https://skillicons.dev/icons?i=rust,bevy))
 ##### Tools🛠️:
-![SPtools](https://skillicons.dev/icons?i=clion,rustrover,git)
+![SPtools](https://skillicons.dev/icons?i=intellij,git)
