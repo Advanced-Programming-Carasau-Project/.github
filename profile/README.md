@@ -23,6 +23,6 @@ Four singular contribution to create a virtual robot combining them:
 
 
 ##### Development👨🏻‍💻:
-![SPDev](https://skillicons.dev/icons?i=rust,bevy)
+![SPDev](https://skillicons.dev/icons?i=rust,bevy,rocket)
 ##### Tools🛠️:
-![SPtools](https://skillicons.dev/icons?i=intellij,github)
+![SPtools](https://skillicons.dev/icons?i=vscode,github,blender)
