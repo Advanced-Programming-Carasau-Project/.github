@@ -19,7 +19,7 @@ Four singular contributions to create a virtual robot combining them:
    
    -An AI developed by Marco Murru using ".....".
    
-   -An AI developed by Andrea Goldoni using ".....".
+   -An AI developed by Andrea Goldoni using if and else.
 
 
 ##### Development👨🏻‍💻:
