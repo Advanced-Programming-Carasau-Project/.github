@@ -15,7 +15,7 @@ Four singular contributions to create a virtual robot combining them:
 
    -A 3D Visualizer developed by Giulio Lo Cigno using Bevy.
    
-   -A Visualizer developed by Lorenzo D'Ambrosio using "....".
+   -A Visualizer developed by Lorenzo D'Ambrosio using Bevy.
    
    -An AI developed by Marco Murru using ".....".
    
